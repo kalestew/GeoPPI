@@ -1,0 +1,11 @@
+PDB file: /wynton/home/craik/kjander/GeoPPI/GeoPPI/data/testExamples/1CZ8.pdb
+Positions file: test_positions.txt
+Number of positions: 3
+Antibody chains: V, W
+Antigen chains: H, L
+Partner info: WV_HL
+
+Positions to mutate:
+  KW84
+  AL112
+  SH17

@@ -1,0 +1,40 @@
+Python: /wynton/home/craik/kjander/.conda/envs/geoppi_clean/bin/python3
+Current directory: /wynton/home/craik/kjander/GeoPPI
+Testing Python...
+Python is working
+Checking script...
+-rw-r--r--. 1 kjander craik 2781 Jul  6 16:20 single_residue_saturation.py
+Running script...
+Running saturation mutagenesis for A23 (wildtype: C)
+  Running CA23A...
+  CA23A: 0.48
+  Running CA23R...
+  CA23R: 0.39
+  Running CA23N...
+  CA23N: 0.13
+  Running CA23D...
+Warning: Could not extract DDG for CA23D
+--- run.py output ---
+Data processing error: Please double check your inputs is correct! Such as the pdb file path, mutation information and binding partners. You might find more error details at temp/foldx.log
+
+--------------------
+  CA23D: None
+  Running CA23Q...
+Warning: Could not extract DDG for CA23Q
+--- run.py output ---
+Data processing error: Please double check your inputs is correct! Such as the pdb file path, mutation information and binding partners. You might find more error details at temp/foldx.log
+
+--------------------
+  CA23Q: None
+  Running CA23E...
+Warning: Could not extract DDG for CA23E
+--- run.py output ---
+Data processing error: Please double check your inputs is correct! Such as the pdb file path, mutation information and binding partners. You might find more error details at temp/foldx.log
+
+--------------------
+  CA23E: None
+  Running CA23G...
+  CA23G: -0.67
+  Running CA23H...
+  CA23H: -0.21
+  Running CA23I...

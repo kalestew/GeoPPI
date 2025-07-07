@@ -1,0 +1,11 @@
+===== Environment Setup =====
+Conda environment: geoppi_clean         * /wynton/home/craik/kjander/.conda/envs/geoppi_clean
+Python: /wynton/home/craik/kjander/.conda/envs/geoppi_clean/bin/python3
+Python version: Python 3.8.18
+Current directory: /wynton/home/craik/kjander/GeoPPI
+=============================
+Running single_residue_saturation.py with:
+  PDB: GeoPPI/41D1/41D1_forGeoPPI.pdb
+  Residue: CA23
+  Partners: AB_C
+  Output: test_CA23_sge.csv
