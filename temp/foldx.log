@@ -1,0 +1,51 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: 41D1_forGeoPPI.pdb
+Output: temp/41D1_forGeoPPI.log
+
+BackHbond       =               -318.48
+SideHbond       =               -149.15
+Energy_VdW      =               -573.73
+Electro         =               -19.73
+Energy_SolvP    =               742.63
+Energy_SolvH    =               -752.55
+Energy_vdwclash =               72.02
+energy_torsion  =               9.34
+backbone_vdwclash=              151.44
+Entropy_sidec   =               285.07
+Entropy_mainc   =               712.07
+water bonds     =               0.00
+helix dipole    =               -2.78
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -16.77
+kn electrostatic=               -0.47
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -6.89
+
+Starting BuildModel
+Reading CA23V;
+Residue to Mutate CYSA23 has residue index 22
+Mutating residue = CYSA23 into VAL
+Your file run OK
+End time of FoldX: Sun Jul  6 17:55:46 2025
+Total time spend: 3.65 seconds.
+validated file "41D1_forGeoPPI_1.pdb" => successfully finished
+Cleaning BuildModel...DONE

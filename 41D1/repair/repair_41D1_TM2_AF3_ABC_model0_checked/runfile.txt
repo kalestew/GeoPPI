@@ -1,0 +1,6 @@
+command=RepairPDB
+pdb=41D1_TM2_AF3_ABC_model0_checked.pdb
+
+temperature=298
+water=-CRYSTAL
+complexWithDNA=true

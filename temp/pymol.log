@@ -1,0 +1,3 @@
+PyMOL>interfaceResidue 41D1_forGeoPPI, chain A, chain B
+PyMOL>interfaceResidue 41D1_forGeoPPI, chain A, chain C
+PyMOL>interfaceResidue 41D1_forGeoPPI, chain B, chain C
